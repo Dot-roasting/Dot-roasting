@@ -1,6 +1,6 @@
 Hi there!
 
-__Discord Bot:-__
+__Discord Bot:- (SueBot)__
 
 Invite Link:-
 

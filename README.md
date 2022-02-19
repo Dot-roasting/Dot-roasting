@@ -1,9 +1,11 @@
-Hi there
+Hi there!
 
 Discord Bot Link:-
 
-Discord Bot List - https://discord.ly/suebot
+<a href="https://discord.ly/suebot">Discord Bot List</a> - https://discord.ly/suebot
 
-SueBot <a href="https://discord.ly/suebot">Suebot </a>
+Top.gg - (Getting Verified)
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@98dea8b9-a022-490c-becb-ce73ff18e71d/35bf7fca-f7f1-453f-9361-4b3ec077b457.png" /></a>
+
+
+

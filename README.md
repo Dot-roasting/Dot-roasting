@@ -24,4 +24,4 @@ Top.gg - (Getting Verified)
 
 
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@98dea8b9-a022-490c-becb-ce73ff18e71d/2c9279b0-c49c-4b1f-8f5d-922e5dd0647c.png" /></a>
+<figure><embed src="https://wakatime.com/share/@98dea8b9-a022-490c-becb-ce73ff18e71d/90a7dd14-1832-491c-8bb9-9e8945c868c1.svg"></embed></figure>

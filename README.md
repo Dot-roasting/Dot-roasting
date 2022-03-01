@@ -8,9 +8,6 @@ Invite Link:-
 
 <a href="https://discord.ly/suebot">Discord Bot List</a>
 
-<a href="https://top.gg/bot/923088710604554290">
-  <img src="https://top.gg/api/widget/923088710604554290.svg">
-</a>
 <a href="https://discordbotlist.com/bots/923088710604554290">
   <img src="https://discordbotlist.com/api/v1/bots/923088710604554290/widget">
 </a>
